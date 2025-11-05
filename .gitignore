@@ -28,6 +28,7 @@ coverage
 
 .eslintcache
 .env
+.lecture-starter-react-production
 
 # Cypress
 /cypress/videos/
